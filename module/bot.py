@@ -353,7 +353,7 @@ async def send_help_str(client: pyrogram.Client, chat_id):
                     url="https://t.me/baidugo",
                 ),
                 # InlineKeyboardButton(
-                #     "联系制作", url="https://t.me/baidugo"
+                #     "联系修复", url="https://t.me/baidugo"
                 # ),
             ]
         ]
