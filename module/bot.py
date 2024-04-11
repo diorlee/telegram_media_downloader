@@ -368,7 +368,7 @@ async def send_help_str(client: pyrogram.Client, chat_id):
     )
 
     msg = (
-        f"`\n🤖 {_t('Telegram Media Downloader')}\n"
+        f"`\n🤖 {_t('🏀IKUN Media Downloader')}\n"
         f"🌐 {_t('Version')}: {utils.__version__}`\n"
         f"{latest_release_str}\n"
         f"{_t('Available commands:')}\n"
