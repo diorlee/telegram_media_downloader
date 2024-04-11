@@ -349,12 +349,12 @@ async def send_help_str(client: pyrogram.Client, chat_id):
         [
             [
                 InlineKeyboardButton(
-                    "Github",
-                    url="https://github.com/tangyoha/telegram_media_downloader/releases",
+                    "联系制作",
+                    url="https://t.me/baidugo",
                 ),
-                InlineKeyboardButton(
-                    "Join us", url="https://t.me/TeegramMediaDownload"
-                ),
+                # InlineKeyboardButton(
+                #     "联系制作", url="https://t.me/baidugo"
+                # ),
             ]
         ]
     )
